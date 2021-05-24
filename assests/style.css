@@ -7,7 +7,8 @@
       
     /* padding for whole body */
     body {
-        padding: 15px;
+      background-color: crimson;
+      padding: 15px;
     }
       
     /* styling body */
@@ -18,6 +19,14 @@
       
     h1 {
         color: green;
+    }
+
+    h2 {
+        background-color: cyan;
+    }
+
+    h3 p {
+        background-color: dodgerblue;
     }
       
     /* anchor tag decoration */
@@ -36,6 +45,7 @@
         -webkit-box-orient: vertical;
         -webkit-line-clamp: 4;
         overflow: hidden;
+        background-color: dodgerblue;
  
     }
       
