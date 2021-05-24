@@ -8,6 +8,8 @@
     /* padding for whole body */
     body {
       background-image: url(https://images.pexels.com/photos/1261728/pexels-photo-1261728.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+      background-repeat: no-repeat;
+      background-size: cover;
       padding: 15px;
     }
       
