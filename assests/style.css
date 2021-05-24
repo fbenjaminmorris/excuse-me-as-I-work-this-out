@@ -7,7 +7,7 @@
       
     /* padding for whole body */
     body {
-      background-color: crimson;
+      background-image: url(https://images.pexels.com/photos/1261728/pexels-photo-1261728.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
       padding: 15px;
     }
       
@@ -45,7 +45,7 @@
         -webkit-box-orient: vertical;
         -webkit-line-clamp: 4;
         overflow: hidden;
-        background-color: dodgerblue;
+        
  
     }
       
